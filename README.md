@@ -61,6 +61,12 @@
                             <li><a href="https://github.com/darooty/TIL/blob/main/ML/Modeling/Regression/Stacking%20and%20Blending.ipynb">Stacking and Blending</a></li>
                         </ol>
                     </li>
+                    <li>
+                        Optimization
+                        <ol>
+                            <li><a href='https://github.com/darooty/TIL/blob/main/ML/Modeling/Optimize/Optimization%20Technique.md'>Optimize with Optuna</a></li>
+                        </ol>
+                    </li>
                 </ul>
             </li>
         </ul>
