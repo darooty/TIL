@@ -58,8 +58,8 @@ study = optuna.create_study(direction='minimize')<br>
 study.optimize(optimizer, n_trials=100)<br><br>
 study 객체 결과 시각화:<br>
 optuna.visualization.plot까지 공통.<br>
-optuna.visualization.plot.optimization_history(study)<br>
-optuna.visualization.plot.slice(study)<br><br>
+optuna.visualization.plot_optimization_history(study)<br>
+optuna.visualization.plot_slice(study)<br><br>
 study 객체 하이퍼파라미터 결과:<br>
 study.best_param
 
