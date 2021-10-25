@@ -1,5 +1,18 @@
 Today Goal:
 1. Start reading a DL paper loadmap's first paper.
-2. Complete kaggle titanic best notebook reading and edit baseline.
+2. Complete kaggle bike best notebook reading and edit baseline.
 3. comment kaggle question.
 4. DACON resister and search contests.
+
+
+Result
+1. Learn Stacking method.
+2. comment kaggle question.
+3. Participate in Dacon contest and create baseline.
+4. Create baseline notebook about bike competition.
+
+
+new know
+1. pd.read_csv encoding:
+한글csv를 불러올 때 인코딩 인자를 euc-kr로 전달하면 된다.
+https://zephyrus1111.tistory.com/39
