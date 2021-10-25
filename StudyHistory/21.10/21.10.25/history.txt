@@ -1,0 +1,5 @@
+Today Goal:
+1. Start reading a DL paper loadmap's first paper.
+2. Complete kaggle titanic best notebook reading and edit baseline.
+3. comment kaggle question.
+4. DACON resister and search contests.
