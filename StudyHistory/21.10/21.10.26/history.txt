@@ -1,0 +1,14 @@
+Today Goal:
+1. Reading a DL paper loadmap's first paper.
+2. Edit HousePrice notebook.
+3. Create TimeSeries FE document.
+4. Create baseline of DACON contest.
+
+
+Result
+1. Edit HousePrice notebook.
+2. Create TimeSeries FE document.
+3. Create baseline of DACON contest.
+
+
+new know
