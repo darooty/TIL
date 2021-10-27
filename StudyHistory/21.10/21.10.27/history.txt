@@ -1,0 +1,10 @@
+Today Goal:
+1. Read documents about TimeSeries Regression.
+2. Submit new files in Dacon contest.
+3. Create baseline of kaggle competition (Sales Prediction).
+
+
+Result
+
+
+new know
