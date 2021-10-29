@@ -1,0 +1,11 @@
+Today Goal:
+1. Upgrade HousePrices kernel.
+2. Search Visualization skills.
+3. rework linear models.
+4. Learn How to build a model that based DL of TimeSeries Forecasting.
+
+
+Result
+
+
+new know
