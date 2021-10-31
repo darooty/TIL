@@ -1,0 +1,10 @@
+Today Goal:
+1. Search Time Series Prediction Methods.
+2. Search Time Series Feature Engineering.
+3. Create new notebooks to increase score about Gas TimeSeries Prediction contest in Dacon.
+
+
+Result
+
+
+new know
