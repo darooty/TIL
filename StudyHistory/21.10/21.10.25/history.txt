@@ -16,3 +16,4 @@ new know
 1. pd.read_csv encoding:
 한글csv를 불러올 때 인코딩 인자를 euc-kr로 전달하면 된다.
 https://zephyrus1111.tistory.com/39
+2. 시계열 특성을 가진 변수는 년, 월, 일, 시간으로 파싱해서 더 좋은 변수로 가공할 수 있다.
