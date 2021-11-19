@@ -1,0 +1,14 @@
+그리드서치를 사용한 모형 최적화
+
+1. 그리드서치를 사용할 때 교차검증 평균 점수가 가장 좋은 조합을 best_estimator_로
+지정한다. best_params_는 best_estimator_의 파라미터이다.
+
+2. best_estimator_는 이미 fitting이 완료된 객체이다. 무엇으로 fitting된지 알아내야 한다.
+=> 피팅 시 제공한 전체 데이터로 다시 학습한다.
+
+3. 그리드서치는 cv를 어떻게 설정하느냐에 따라 결과가 달라질 수 있다. cv의 폴드 개수를
+설정하는 방법을 알아내야 한다.
+
+4. best_estimator_를 그대로 사용해서 테스트 prediction / best_estimator_를 훈련전체로
+다시 학습 후 테스트 prediction / best_params_를 사용해서 모델 새로 생성 후 훈련전체로
+학습 후 테스트 prediction 중 어느 방법이 맞는지 확인. => 모두 같은 결과.
