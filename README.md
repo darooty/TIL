@@ -3,6 +3,12 @@
 
 <ul>
     <li>
+        <h2>Study History</h2>
+        <ul>
+            <li><a href="https://github.com/darooty/TIL/tree/main/StudyHistory/22.01">2022.01</a></li>
+            <li><a href="https://github.com/darooty/TIL/tree/main/StudyHistory/22.01">2022.02</a></li>
+            <li><a href="https://github.com/darooty/TIL/tree/main/StudyHistory/22.01">2022.03</a></li>
+        </ul>
         <h2>ML</h2>
         <ul>
             <li>
